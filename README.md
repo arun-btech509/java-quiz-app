@@ -9,6 +9,7 @@ Fun Java quiz game with scoring system! Built fully on mobile phone!
 
 ## How to Run
 javac Quizapp.java
+
 java QuizApp
 
 Made with ❤️ on phone at 1 AM!
